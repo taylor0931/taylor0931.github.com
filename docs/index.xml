@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cupper</title>
+    <link>https://taylor0931.github.com/</link>
+    <description>Recent content on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://taylor0931.github.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

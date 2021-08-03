@@ -17,22 +17,23 @@ minify:
 
 languages:
     en:
-        languageName: "中文"
+        languageName: "English"
         weight: 1
         menu:
             main:
                 - name: Archive
                   url: archives
                   weight: 5
-                - name: Search
-                  url: search/
+                # - name: Search
+                #   url: search/
+                #   weight: 10
+                - name: Categories
+                  url: categories/
                   weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+                  
 
 outputs:
     home:

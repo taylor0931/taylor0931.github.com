@@ -2,6 +2,7 @@
 title: "印度会取代中国吗？"
 date: 2021-08-03T12:21:50+08:00
 tags: ["随笔"]
+categories: ["全球智库报告"]
 draft: false
 ---
 

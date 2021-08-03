@@ -21,7 +21,7 @@ languages:
         weight: 1
         menu:
             main:
-                - name: Archive
+                - name: Archives
                   url: archives
                   weight: 5
                 # - name: Search
@@ -74,7 +74,7 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "勤劳致富"
+        Title: "格物致知"
         Content: 时时勤拂拭，勿使然尘埃
 
     # socialIcons:

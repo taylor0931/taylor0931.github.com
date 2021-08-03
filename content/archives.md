@@ -1,5 +1,5 @@
 ---
-title: "文章归档"
+title: "Archives"
 layout: archives
 hidden: true
 summary: 历史文章按照年月归档.

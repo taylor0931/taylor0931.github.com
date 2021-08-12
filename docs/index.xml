@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Taylor&#39;s Blog</title>
+    <link>https://taylor0931.github.io/</link>
+    <description>Recent content on Taylor&#39;s Blog</description>
+    <image>
+      <url>https://taylor0931.github.io/papermod-cover.png</url>
+      <link>https://taylor0931.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Aug 2021 12:21:50 +0800</lastBuildDate><atom:link href="https://taylor0931.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://taylor0931.github.io/about/</link>
+      <pubDate>Tue, 03 Aug 2021 12:36:39 +0800</pubDate>
+      
+      <guid>https://taylor0931.github.io/about/</guid>
+      <description>我是谁？
+不积跬步无以至千里，不积小流无以成江海。
+千里之行始于足下。</description>
+    </item>
+    
+    <item>
+      <title>全球供应链调整：印度会取代中国吗？？</title>
+      <link>https://taylor0931.github.io/posts/india-replace-china/</link>
+      <pubDate>Tue, 03 Aug 2021 12:21:50 +0800</pubDate>
+      
+      <guid>https://taylor0931.github.io/posts/india-replace-china/</guid>
+      <description>&lt;p&gt;全球供应链调整 —— 未来 10-20 年对中国发展非常关键的一个议题（很多国家都在呼吁取代中国）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello Taylor</title>
+      <link>https://taylor0931.github.io/posts/hello/</link>
+      <pubDate>Tue, 03 Aug 2021 00:42:45 +0800</pubDate>
+      
+      <guid>https://taylor0931.github.io/posts/hello/</guid>
+      <description>这是一个新的开始。
+2021.08.03</description>
+    </item>
+    
+    
+  </channel>
+</rss>

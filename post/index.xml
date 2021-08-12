@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Taylor&#39;s Blog</title>
     <link>https://taylor0931.github.com/post/</link>
     <description>Recent content in Posts on Taylor&#39;s Blog</description>
-    <image>
-      <url>https://taylor0931.github.com/papermod-cover.png</url>
-      <link>https://taylor0931.github.com/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
     <lastBuildDate>Tue, 03 Aug 2021 12:21:50 +0800</lastBuildDate><atom:link href="https://taylor0931.github.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>印度会取代中国吗？</title>
-      <link>https://taylor0931.github.com/post/india-replace-china/</link>
+      <link>https://taylor0931.github.com/india-replace-china/</link>
       <pubDate>Tue, 03 Aug 2021 12:21:50 +0800</pubDate>
       
-      <guid>https://taylor0931.github.com/post/india-replace-china/</guid>
+      <guid>https://taylor0931.github.com/india-replace-china/</guid>
       <description>全球智库报告_全球供应链调整：印度会取代中国吗？
 #徐弃郁
 全球供应链调整——未来10-20年对中国发展非常关键的一个议题（很多国家都在呼吁取代中国）
@@ -61,10 +58,10 @@ C. （最主要原因）人口
     
     <item>
       <title>Hello Taylor</title>
-      <link>https://taylor0931.github.com/post/hello/</link>
+      <link>https://taylor0931.github.com/hello/</link>
       <pubDate>Tue, 03 Aug 2021 00:42:45 +0800</pubDate>
       
-      <guid>https://taylor0931.github.com/post/hello/</guid>
+      <guid>https://taylor0931.github.com/hello/</guid>
       <description>这是一个新的开始。
 2021.08.03</description>
     </item>

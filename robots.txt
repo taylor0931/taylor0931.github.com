@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://taylor0931.github.com/sitemap.xml

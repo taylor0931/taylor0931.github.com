@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>王先生的诗s on Taylor&#39;s Blog</title>
+    <link>https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/</link>
+    <description>Recent content in 王先生的诗s on Taylor&#39;s Blog</description>
+    <image>
+      <url>https://taylor0931.github.com/papermod-cover.png</url>
+      <link>https://taylor0931.github.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Aug 2021 12:36:39 +0800</lastBuildDate><atom:link href="https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于「王先生的诗」</title>
+      <link>https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/about/</link>
+      <pubDate>Tue, 03 Aug 2021 12:36:39 +0800</pubDate>
+      
+      <guid>https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/about/</guid>
+      <description>暂且称它为诗集
+因为它
+记录了王先生
+对生活
+天马星空的想象
+不在乎诗词格律
+不在乎对仗平仄
+只是一种朴实的表达
+另类可爱</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taylor0931.github.com/%E7%8E%8B%E5%85%88%E7%94%9F%E7%9A%84%E8%AF%97/untitled/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

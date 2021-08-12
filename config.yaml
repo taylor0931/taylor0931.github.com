@@ -3,6 +3,8 @@ title: Taylor's Blog
 paginate: 5
 theme: PaperMod
 
+publishdir: docs
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false

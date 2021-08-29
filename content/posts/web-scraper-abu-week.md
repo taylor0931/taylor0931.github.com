@@ -6,7 +6,7 @@ categories: ["数据分析"]
 draft: false
 ---
 
-阿布量化（）每周日会发布下一周的股票价格预测。我们基于chrome 插件 [webscraper](https://www.webscraper.io/) 做一个简单的web页面爬虫，即可拿到每周的全部股票预测数据。
+[阿布量化](www.abuquant.com)每周日会发布下一周的股票价格预测。我们基于chrome 插件 [webscraper](https://www.webscraper.io/) 做一个简单的web页面爬虫，即可拿到每周的全部股票预测数据。
 
 <!--more-->
 
@@ -35,11 +35,11 @@ Web Scraper 是一个可视化的 web 爬虫配置工具，主要通过 Chrome �
 
 在 Chrome 浏览器中打开【开发者工具】（`Option + Command + I`，或者 `F12`），在 【Web Scraper】中点击 【Create new sitemap】 => 【Import Sitemap】，将上述配置信息贴在【Sitemap JSON】文本框中，然后点击 【Import Sitemap】按钮即可。
 
-具体操作如下图：
+**2.1 操作流程**：
 
-![image-20210829230554066](https://raw.githubusercontent.com/taylor0931/pics-repo/master/img/image-20210829230554066.png)
+![操作流程](https://raw.githubusercontent.com/taylor0931/pics-repo/master/img/image-20210829230554066.png)
 
-### 2.1 配置内容
+**2.2 配置内容**：
 
 ```json
 {

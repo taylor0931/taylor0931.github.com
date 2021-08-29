@@ -9,7 +9,16 @@
       <link>https://taylor0931.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Aug 2021 12:21:50 +0800</lastBuildDate><atom:link href="https://taylor0931.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 22:41:35 +0800</lastBuildDate><atom:link href="https://taylor0931.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿布量化周报爬虫</title>
+      <link>https://taylor0931.github.io/posts/web-scraper-abu-week/</link>
+      <pubDate>Sun, 29 Aug 2021 22:41:35 +0800</pubDate>
+      
+      <guid>https://taylor0931.github.io/posts/web-scraper-abu-week/</guid>
+      <description>&lt;p&gt;阿布量化（）每周日会发布下一周的股票价格预测。我们基于chrome 插件 &lt;a href=&#34;https://www.webscraper.io/&#34;&gt;webscraper&lt;/a&gt; 做一个简单的web页面爬虫，即可拿到每周的全部股票预测数据。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>关于我</title>
       <link>https://taylor0931.github.io/about/</link>

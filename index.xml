@@ -16,7 +16,7 @@
       <pubDate>Sun, 29 Aug 2021 22:41:35 +0800</pubDate>
       
       <guid>https://taylor0931.github.io/posts/web-scraper-abu-week/</guid>
-      <description>&lt;p&gt;阿布量化（）每周日会发布下一周的股票价格预测。我们基于chrome 插件 &lt;a href=&#34;https://www.webscraper.io/&#34;&gt;webscraper&lt;/a&gt; 做一个简单的web页面爬虫，即可拿到每周的全部股票预测数据。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;www.abuquant.com&#34;&gt;阿布量化&lt;/a&gt;每周日会发布下一周的股票价格预测。我们基于chrome 插件 &lt;a href=&#34;https://www.webscraper.io/&#34;&gt;webscraper&lt;/a&gt; 做一个简单的web页面爬虫，即可拿到每周的全部股票预测数据。&lt;/p&gt;</description>
     </item>
     
     <item>

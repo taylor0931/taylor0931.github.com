@@ -18,7 +18,7 @@ draft: false
 
 2008年11月1日，在一个秘密讨论群「密码学邮件组」里出现了一个新帖子：《Bitcoin: A peer-to-peer Electronic Cash System》。发帖的神秘人署名Satoshi Nakamoto，这是他的首次出现。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906162000764.png" alt="image-20210906162000764" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906162000764.png" alt="image-20210906162000764" style="zoom:50%;" />
 
 > “我正在开发一种新的电子货币系统，完全采用点对点的形式，而且无需第三方的介入。”
 

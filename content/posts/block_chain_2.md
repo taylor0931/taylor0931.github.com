@@ -24,7 +24,7 @@ draft: false
 
 > ​	“起初人类有共同的语言，并且一起居住在与幼发拉底河相距不远的地方。人们利用河谷的资源在那里**建筑城和塔，以聚集全体人类**。 上帝降临视察，**认为人类过于自信和团结，一旦完成计划，人类将无所不能**。上帝决定**打乱人们的口音和语言，并使他们分散各地**。于是高塔停工了，人们操持不同的语言，互相之间难以交流。这个塔就是巴别塔。”
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904161306356.png" alt="image-20210904161306356" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904161306356.png" alt="image-20210904161306356" style="zoom:67%;" />
 
 抛开宗教方面的意义， 这个故事本身也很值得玩味。它表明，如果全人类能顺畅交流，且团结合作，会带来无限的可能性。
 
@@ -38,7 +38,7 @@ draft: false
 
 > ​	在中国，公元前210年，秦始皇统一六国之后，在全国范围内统一文字，把小篆作为全国通用的书写规范；废除各国原来的货币，统一使用圆形方孔的秦半两。统一的文字对推行法令、传播文化起了重要的作用，而统一的货币改变了过去货币的混乱状态，促进了全国各地的商品交换和经济交流。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904161820083.png" alt="image-20210904161820083" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904161820083.png" alt="image-20210904161820083" style="zoom:50%;" />
 
 ## 二、世界货币体系的变迁
 
@@ -46,7 +46,7 @@ draft: false
 
 基于巴别塔的故事，我们从现实角度来梳理一下世界货币体系的变迁史。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904162810998.png" alt="image-20210904162810998" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904162810998.png" alt="image-20210904162810998" style="zoom:67%;" />
 
 前面的银本位和金本位都还比较好理解，这里重点说一说后面两套体系。
 
@@ -74,7 +74,7 @@ draft: false
 
 ​	
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904163519016.png" alt="image-20210904163519016" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904163519016.png" alt="image-20210904163519016" style="zoom:67%;" />
 
 这种运作机制下，一切都逃不过美国的眼睛。并且如果美国超发货币导致美元贬值，也会对不同国家的跨国交易造成很大的影响。
 
@@ -114,7 +114,7 @@ draft: false
 
 自货币诞生以来，人类进行价值交换的手段一直没有停止过迭代和进化。从物物交换到实物货币，再到贵重金属和纸币，今天支付宝微信交易无处不在，但账户上终究只是人民币的数字表征，交易的发生仅仅涉及数字的变化。2008年中本聪发布比特币区块链，使得一种完全去中心化的数字货币横扫了世界，目前来看数字货币是货币的终极形态。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904195036762.png" alt="image-20210904195036762" style="zoom: 50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904195036762.png" alt="image-20210904195036762" style="zoom: 50%;" />
 
 #### 2.货币的本质是什么？
 
@@ -130,7 +130,7 @@ draft: false
 >
 > **人们都承认，这块费币在运输过程中掉入海里，并且也承认，即使掉落在数百英里之外的海里，这块石币的交易价值也不应受到影响**……这块石币的购买力就如同把它明显地摆在主人房外一样，仍然有效。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904195558541.png" alt="image-20210904195558541" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904195558541.png" alt="image-20210904195558541" style="zoom:50%;" />
 
 可见，在这个小岛上，货币与财富都是基于大家共识的，我们作为局外人，无法达成这样的共识，所以会觉得很奇怪，但是这个岛上居民的货币和交易方式受到了经济学家的赞扬，认为他们非常有智慧。
 
@@ -162,7 +162,7 @@ B 向 A 借了 100 块钱，一旦借款发生，A 和 B 分别会将信息在�
 
 ​	2）甲乙丙丁是进行记账的人，也就是所谓的“矿工”；
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904200748788.png" alt="image-20210904200748788" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904200748788.png" alt="image-20210904200748788" style="zoom:67%;" />
 
 需要注意的是，甲乙丙丁所有人都记账，会造成资源浪费，且城市的总账不好维护，所以中本聪通过限制hash计算的速度，一次只让一个人记账；记完之后通过广播同步城市总账本即可。
 
@@ -190,7 +190,7 @@ B 向 A 借了 100 块钱，一旦借款发生，A 和 B 分别会将信息在�
 
 被kill掉的那条链路上的人，会获得一定的补偿**（第四条规则——补偿机制）**。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904202800589.png" alt="image-20210904202800589" style="zoom: 67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904202800589.png" alt="image-20210904202800589" style="zoom: 67%;" />
 
 #### 案例：国民岳母的难题
 
@@ -204,13 +204,13 @@ B 向 A 借了 100 块钱，一旦借款发生，A 和 B 分别会将信息在�
 >
 > ​	第一个成功破解难题的男士不仅不需要支付彩礼，还能得到国民岳母的一笔巨额财产作为嫁妆（这就是比特币奖励）
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904203602421.png" alt="image-20210904203602421" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904203602421.png" alt="image-20210904203602421" style="zoom:50%;" />
 
 #### 竞争记账权的具体机制
 
 要解释清楚竞争的具体机制，需要回到上一节中hash值的计算部分。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904204200091.png" alt="image-20210904204200091" style="zoom: 67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904204200091.png" alt="image-20210904204200091" style="zoom: 67%;" />
 
 在当前区块的hash值计算过程中，上一个区块的hash值和本区块记录的数据特征值都是固定不变的，唯一增加了一个Nonce值。
 
@@ -262,7 +262,7 @@ B 向 A 借了 100 块钱，一旦借款发生，A 和 B 分别会将信息在�
 
 ​	② **比特币发行限量限速**（因为挖矿过程非常困难，每4年减半）
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210904210152163.png" alt="image-20210904210152163" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210904210152163.png" alt="image-20210904210152163" style="zoom:67%;" />
 
 #### *参考资料*
 

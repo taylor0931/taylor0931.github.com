@@ -40,7 +40,7 @@ draft: false
 
 中本聪在发布比特币白皮书的网站「P2P Foundation」上注册的生日是1975年4月5日。对于一个精通密码学的人才，这个信息当然不是真的，但是肯定也不是随便填的。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906162947034.png" alt="image-20210906162947034" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906162947034.png" alt="image-20210906162947034" style="zoom:50%;" />
 
 在1933年的这一天，美国总统富兰克林 · 罗斯福签署了政府法令6102以对抗大萧条，该法令规定所有美国公民持有黄金都是非法的，没收美国人的黄金，并以美元交换，让美元贬值了40%；也就是说政府洗劫了美国人40%的财富。而在1975年的同一天，福特总统签署“黄金合法化”法案，美国人可以再一次合法地拥有黄金。
 
@@ -66,11 +66,11 @@ draft: false
 
 在全球金融危机时，中本聪将他的怀疑和愤怒集中在了银行机构上，但是与使用生日密码挖苦美国政府一样，他不动声色地幽默化了英国财政大臣达林一把，在创世区块里写道：“当时正是英国财政大臣第二次出手疏解银行危机之时”。将财政达成左支右绌的窘态永久地记录在了区块链上。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906162453991.png" alt="image-20210906162453991" style="zoom:67%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906162453991.png" alt="image-20210906162453991" style="zoom:67%;" />
 
 我想，他一定也与历史上的那些天才一样，是一个有着怪异性格的天才（比如图灵、福尔摩斯）
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906163431753.png" alt="image-20210906163431753" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906163431753.png" alt="image-20210906163431753" style="zoom:50%;" />
 
 
 
@@ -150,7 +150,7 @@ draft: false
 
 ​	条件二：儿子结婚——当智能合约确认父亲死亡后，程序会设定一个交易日期，一旦通过婚姻信息在线数据库扫描到儿子登记结婚，就会自动将父亲的这笔财产转移到儿子名下。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906194137012.png" alt="image-20210906194137012" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906194137012.png" alt="image-20210906194137012" style="zoom:50%;" />
 
 智能合约不是合同，是一个计算机程序，这个计算机程序能够保证你们俩合同签完之后，谁都不能反悔和干涉，只要条件达成，这个系统会自动扫描大家商量好的一个网站，来判定谁赢谁输，自动触发支付的条款，这是区块链的 2.0。
 
@@ -162,7 +162,7 @@ draft: false
 
 以太坊区块链的运行机制与比特币区块链的运行机制基本一致，运行在以太坊网络上的计算机会展开竞争，争夺执行去中心化应用程序上的代码指令（发行和转移数字资产等）的机会。若胜出的话，这些计算机会获得以太坊的代币以太币（Ether）作为其提供的运算成果的回报。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906194524467.png" alt="image-20210906194524467" style="zoom: 50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906194524467.png" alt="image-20210906194524467" style="zoom: 50%;" />
 
 ## 四、区块链3.0
 
@@ -196,6 +196,6 @@ draft: false
 
 随着区块链技术的发展，其应用能够扩展到任何有需求的领域，包括审计公证、医疗、投票、物流等领域，进而到整个社会。区块链将从商业领域的应用走到全社会的覆盖，无论是人工智能或者物联网，又或者是公司架构和政府组织，都将以区块链为基础进行变革。
 
-<img src="../../../../../Library/Application%20Support/typora-user-images/image-20210906195100829.png" alt="image-20210906195100829" style="zoom:50%;" />
+<img src="https://taylor-blog-1252438081.cos.ap-shanghai.myqcloud.com/img/image-20210906195100829.png" alt="image-20210906195100829" style="zoom:50%;" />
 
 目前有关区块链3.0的资料较少，应用前景说法不一，有说3.0的目标就是为了在技术上和性能上支持大规模的商业应用；有的将应用范围更加扩大，拓展到了全社会，比如将3.0应用到机制和体制改革上，建立一个诚信、和谐、公平、共享的社会，感觉有点像真正的共产主义雏形。
